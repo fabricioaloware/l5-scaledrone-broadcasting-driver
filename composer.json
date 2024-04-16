@@ -16,5 +16,11 @@
     },
     "require": {
         "scaledrone/scaledrone": "*"
-    }
+    },
+    "repositories": [
+        {
+          "type": "vcs",
+          "url": "https://github.com/fabricioaloware/scaledrone-php"
+        }
+    ]
 }
